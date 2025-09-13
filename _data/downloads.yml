@@ -1,0 +1,10 @@
+
+applications:
+  - name: "Mikhmon"
+    file: "/assets/downloads/mikhmon.zip"
+  - name: "NetInstall"
+    file: "/assets/downloads/netinstall.zip"
+
+cours:
+  - name: "Introduction à MikroTik"
+    file: "/assets/downloads/cours01.pdf"
