@@ -1,0 +1,9 @@
+
+title: "GAO YOBO'O"
+description: "Le marché local de Gao — hub pour boutiques, services et ressources."
+baseurl: ""
+url: ""
+collections:
+  vendors:
+    output: true
+permalink: pretty
